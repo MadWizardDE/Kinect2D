@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kinect2D
+namespace Plugin
 {
     public class Class1
     {

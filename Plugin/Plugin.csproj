@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>a7f0e550-fd43-42e5-9ba5-711f23c58475</ProjectGuid>
+    <ProjectGuid>1ddfe075-5042-463e-b336-90ad5ae91605</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kinect2D</RootNamespace>
-    <AssemblyName>Kinect2D</AssemblyName>
+    <RootNamespace>Plugin</RootNamespace>
+    <AssemblyName>Plugin</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
